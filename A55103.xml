@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Plea for moderation, or, A stricture upon the ecclesiasticks of our times</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55103</idno>
+            <idno type="STC">Wing P2514</idno>
+            <idno type="STC">ESTC R16069</idno>
+            <idno type="EEBO-CITATION">12431484</idno>
+            <idno type="OCLC">ocm 12431484</idno>
+            <idno type="VID">61976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61976)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 286:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Plea for moderation, or, A stricture upon the ecclesiasticks of our times</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="to_the_reader">
+            <pb facs="tcp:61976:1"/>
+            <head>An ADVERTISEMENT to the Reader con<g ref="char:EOLhyphen"/>cerning the occaſion of the enſuing Lines.</head>
+            <p>
+               <hi>A</hi> Sober and ſerious Perſon, lately departing this Life, left the Education of his Children to a Friend of his, of that Claſs called Presbyterians, Non-Conformiſts, or Diſſenters, whereupon an High Eccleſiastick of the Epiſcopal way, pretend<g ref="char:EOLhyphen"/>ing (it ſeems) ſome intereſt in the deceaſed, and in order to the vacating of that part of his deſires, did in an open <hi>Court</hi> or Aſſem<g ref="char:EOLhyphen"/>bly declare, <hi>That he had rather ſee the Children in their Graves, than under the Care and Intuition of ſuch a Per<g ref="char:EOLhyphen"/>ſon;</hi> which Words, as they gave no great content to many of the Hearers, ſo they adminiſtred the occaſion to the following Eſſay; the Author hath much more to ſpeak upon the ſame Subject, but this was intended only as a brief Stricture, to perſtringe and curb that <hi>Intemperance, and exacerbation</hi> of ſpirit, which in<g ref="char:EOLhyphen"/>tervenes betwixt thoſe, who are all called Proteſtants.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:61976:1" rendition="simple:additions"/>
+            <p>A PLEA FOR MODERATION: OR, A Stricture UPON THE ECCLESIASTICKS OF <hi>Our Times.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Matth. 18.33.</hi>
+               </bibl>
+               <p>Shouldeſt not thou alſo have had Compaſsion on thy Fellow-ſervant, even as I had pity on thee?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Philip. 4.5.</hi>
+               </bibl>
+               <p>Let your Moderation be known unto all Men, the Lord is at hand.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Janeway,</hi> in <hi>Queen's Head Alley</hi> in <hi>Pater-Noſter-Row.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61976:2"/>
+            <pb n="5" facs="tcp:61976:2"/>
+            <head>A PLEA For Moderation, &amp;c.</head>
+            <p>MAny and great are the Viciſſitudes of humane Affairs, the All wiſe Providence of the Al<g ref="char:EOLhyphen"/>mighty permitting changes and alterations here below, that the ſtupid, unbelieving, and Atheiſtical World might be convinced both of his Being, and alſo of his Power, <hi>That he is a God,</hi> and <hi>that he is a God, that judgeth in the Earth,</hi> Pſalm 58. and the 11. <hi>caſting down one and ſetting up another, even as it pleaſeth him.</hi>
+            </p>
+            <p>Nations and People in Scriptural Language are compared unto Waters, the unſtableſt of all the Elements, which we know hath its Fluxes and Refluxes, its Ebbings and Flowings, ſometimes Rolling towards the Shore in mighty Waves, ſometimes receding there<g ref="char:EOLhyphen"/>from, with the like roaring Billows, which ſeem to be ſwallowed up in their own Abyſs.</p>
+            <p>And it is to be obſerved, as conducive to our purpoſe, that the ſaid Scriptural Metaphor and Alluſion relates to mankind, principally in its Eccleſiaſtick Reference, as the Book of the <hi>Revelations</hi> (which is a <hi>Church Hiſtory,</hi> wherein the ſimilitude is eminently proſecuted) doth make appear, <hi>Revel.</hi> 17. and 15. <hi>The Waters which thou ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>weſt, whereon the Whore ſitteth, are People, and Multitudes, and Nations,
+<pb n="6" facs="tcp:61976:3"/>and Tongues.</hi> And thoſe iterated Monitions in that Book of the <hi>Apo<g ref="char:EOLhyphen"/>calypſe,</hi> no leſs than ſeven times in the ſecond and third Chapter thereof; <hi>He that hath ears to hear, let him hear, &amp;c.</hi> do afford us this uſeful obſervation, That Eccleſiaſticks of all others, are moſt deaf and unheedful in things relating to their own fatality, and by rea<g ref="char:EOLhyphen"/>ſon of ſuch inadvertency, are hurried on to ſuch Precipices as tend to their Ruine, and therefore had need to be rouzed up by ſome awake<g ref="char:EOLhyphen"/>ning conſiderations, leſt they ſhould continue to tread in thoſe ſteps which have led others, in the ſame Circumſtances with them<g ref="char:EOLhyphen"/>ſelves, to diminution and loſs.</p>
+            <p>Now the Reaſons of this drowſie and careleſs temper in thoſe, which ſhould be Watchmen unto others, is rendred, <hi>Revel.</hi> 8. and 7. <hi>She ſaith in her heart, I ſit as Queen and am no Widdow, and ſhall ſee no ſorrow.</hi> Preſent eaſe drowns all thoughts of future harms; the concerns of others under ſufferings, do not otherwiſe affect the ſpirits of ſuch men, than to make an Acceſſion thereto by trium<g ref="char:EOLhyphen"/>phing over them, and thereupon ſending gifts one to another, as af<g ref="char:EOLhyphen"/>ter a complete Conqueſt. Add hereunto, that the Ivy growing up by the Oak (1.) the Eccleſiaſtick Power ſupported by the ſecular, is ſecure of its own ſtation, and looks down with di<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ciency upon his undervalued Opponent.</p>
+            <p>But humane Dignities, not grafted on a divine Stock, are not al<g ref="char:EOLhyphen"/>ways long lived, neither can they give the preſent owners a juſt Ground and Title to the hopes of a perpetuated and uninterrupted poſſeſſion; God reſerves ſo much of the Government of the World in his own immediate hands, that <hi>high</hi> places have been found <hi>ſlip<g ref="char:EOLhyphen"/>pery,</hi> by thoſe who have thought themſelves moſt <hi>ſecure</hi> and <hi>esta<g ref="char:EOLhyphen"/>bliſhed</hi> therein; and there is no greater prognoſtick of a declenſi<g ref="char:EOLhyphen"/>on at hand, than an high degree of confidence, <hi>Revel.</hi> 18.8. <hi>There<g ref="char:EOLhyphen"/>fore ſhall her Plagues come, &amp;c.</hi>
+            </p>
+            <p>It cannot juſtly be denied, but that Party of <hi>Eccleſiaſticks</hi> a<g ref="char:EOLhyphen"/>mongſt us, which goes under the Name of <hi>Presbyterian,</hi> had a very great Influence on the Reſtoration of His Majeſty; the Epiſcopal Clergy (unleſs in their wiſhes and deſires) contributing but little thereunto, and indeed they were incapacitated to add much, as be<g ref="char:EOLhyphen"/>ing outed by the <hi>then</hi> Powers; and beſides, were no high Favou<g ref="char:EOLhyphen"/>rites
+<pb n="7" facs="tcp:61976:3"/>of the People. And whether their actings, ſince their Reſti<g ref="char:EOLhyphen"/>tution have been for the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as and affections time will ſhew. Now that ſuch a conſiderable body and ſo highly demeriting in ſo grand an Affair, ſhould have the Garland pluckt from their head; and inſtead of a <hi>priviledge</hi> meet with a <hi>vi<g ref="char:EOLhyphen"/>lification,</hi> and a <hi>diſappointment</hi> of ſo deep a dye, as in offect to be accounted the ſole <hi>Troublers</hi> of our <hi>Iſrael;</hi> in reſpect of God, all men muſt be ſilent and admire his Providence, bue in reference to the men, who are the Inſtruments of ſuch returns, I will not ſay, where is your <hi>Gratitude?</hi> but where is your <hi>Common Reaſon</hi> and <hi>Underſtanding?</hi> certainly you muſt have vented your paſſions at a greater diſtance, if your Adverſaries (for ſo they ſeem to be ac<g ref="char:EOLhyphen"/>counted) had not called you home to their own doors.</p>
+            <p>But to take matters as they are at preſent, whether the Church ſhould be governed by a Super-intendent Paramount, call him by what name you will, Patriarch, Biſhop, <hi>&amp;c.</hi> or elſe by an Aſſembly of Elders? is not the diſpute of our Age one, it was born before us, and is likely to laſt, when our days are ended; there are Great names on both ſides, <hi>magno ſe judice quiſquè tuetur.</hi>
+            </p>
+            <p>'Tis not my preſent deſign to lanch out into the grand Contro<g ref="char:EOLhyphen"/>verſie, but if what I ſay can be influential: to a juſt and equal Mode<g ref="char:EOLhyphen"/>ration, and may tend to allay the too much hear, animoſity, and a<g ref="char:EOLhyphen"/>cerbity of Spirit, amongſt Church men, I have my end.</p>
+            <p>I look upon <hi>Intereſt, Self-love</hi> and <hi>Deſire of revenge</hi> to be the great Make-bates, and diſuniters of thoſe who ſhould an agree in one common Deſign for the ſaving of Souls; by Intereſt, I mean a <hi>carnal</hi> and <hi>worldly</hi> one, ſuch as grows upon the unregenerate ſtock of a vindicative mind, and hath its place in all men, as far as they are inwardly unrenewed.</p>
+            <p>'Tis freſh in the memoties of <hi>ſome;</hi> Who were the Inſtruments of their Abaſement, and that <hi>Such</hi> ſhould have any priviledge un<g ref="char:EOLhyphen"/>der their reſtored Government, what reaſon? This is the Voice of intereſted <hi>ſelf,</hi> and by this means the Potſheards of the Earth, daſh one againſt another, till both (as may be feared) come to be broken.</p>
+            <p>Theſe differences are the more unhappy, becauſe the Matters in
+<pb n="8" facs="tcp:61976:4"/>diſpute are not <hi>Doctrinal,</hi> nor belonging to the <hi>Eſſentials</hi> of Reli<g ref="char:EOLhyphen"/>gion, but confeſſedly grounded on humane Ordinances and Conſti<g ref="char:EOLhyphen"/>tutions, which <hi>may</hi> or <hi>may not</hi> be, as the Governour of the World ſhall think fit. Why then ſhould ſuch havock be made on occaſion of ſuch <hi>forreign</hi> and <hi>adventitious</hi> things, which concern not the <hi>Vitals</hi> of Religion. In the ſtrict exerciſes of true Piety and holineſs, men cannot be <hi>too exact,</hi> but in ſuper added <hi>Inventions,</hi> though enjoyned by humane Laws, a man may be <hi>righteous over much.</hi> And unleſs this Tenent be granted by Proteſtants of all perſwaſions, we ſhall hardly be able to ſtrike out thoſe Weapons out of the hands of the <hi>Papiſts,</hi> which they brandiſh againſt us in theſe Controverſies.</p>
+            <p>For on what foot, I pray do all their Chriſoms, Cringings, Veſtments, Croſſings, Copes, and other their ſuperſtitious Im<g ref="char:EOLhyphen"/>plements and practiſes ſtand, but upon Church Conſtitution and Priviledge? in favour whereof, they are alſo backed with <hi>municipal</hi> Laws; take away that foundation, and they all fall to the ground. That portion of Scripture which is uſually alledged in their de<g ref="char:EOLhyphen"/>fence; <hi>Let all things be done decently and in order,</hi> hath been ſo ſqueezed by malign and diſtorted interpretations, that little of its own juice is left therein: For whereas the Apoſtle enjoyns the due and decent obſervation of thoſe Rules and Orders in the Worſhip of God, which he himſelf, being divinely inſpired thereunto, had before ſet down; Each party unwarrantably aſſuming Apoſtolical Power, makes it a <hi>Buckler</hi> to defend its own Authority, in <hi>ena<g ref="char:EOLhyphen"/>cting</hi> ſuch <hi>Church Canons,</hi> as they themſelves ſhall pleaſe, and in challenging obedience to thoſe Canons, ſo enacted.</p>
+            <p>But becauſe our high Eccleſiaſticks do propound the Reformation made in Queen <hi>Elizabeth</hi>'s days, and the procedures thereupon, to be a Rule for their <hi>ſeverities</hi> in our times; I ſhall crave leave to mind them of <hi>a pair</hi> of Inſtances of four Learned men, the Heads of their ſeveral Parties at that time; the conſideration of which might ſomewhat abate the heat of oppoſition againſt Diſſenting Brethren.</p>
+            <p>Firſt, The one is of Arch Biſhop <hi>Whitguift,</hi> and Mr. <hi>Thomas Cartwright.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:61976:4"/>
+Secondly, The other of Mr. <hi>Richard Hooker,</hi> and Mr. <hi>Walter Travers,</hi> Chaplain to the Lord Treaſurer <hi>Burghly,</hi> all four eminent in their reſpective References. <hi>Whitguift</hi> and <hi>Hooker</hi> for the Ec<g ref="char:EOLhyphen"/>cleſiaſtical Government (as then Eſtabliſhed) and the impoſed Ce<g ref="char:EOLhyphen"/>remonies; <hi>Cartwright,</hi> and <hi>Travers</hi> againſt them.</p>
+            <p>Arch-Biſhop <hi>Whitguift</hi> was known to be a great Zealot for the Engliſh Hierarchy, and Ceremonies, when he was in <hi>Cambridge,</hi> where the oppoſition betwixt him and Mr. <hi>Cartwright</hi> did begin; but after he was advanced to the Arch Biſhoprick of <hi>Canterbury,</hi> and to the Degree of al Privy Councellour, he was armed with greater Power, to cruſh his Adverſaries and Opponents. The Con<g ref="char:EOLhyphen"/>troverſies managed betwixt him and <hi>Cartwright</hi> on the forementio<g ref="char:EOLhyphen"/>ned Heads, are ſufficiently declared and canvaſed in the firſt and ſe<g ref="char:EOLhyphen"/>cond Admonition to the then Parliament, made by Mr. <hi>Cartwright;</hi> in <hi>Whitguift</hi>'s Anſwer thereunto; in <hi>Cartwright</hi>'s Reply to that An<g ref="char:EOLhyphen"/>ſwer, and <hi>Whitguift</hi>'s Rejoynder to that Reply, to which the Books being extant, the Reader is referred.</p>
+            <p n="2">2. Mr. <hi>Cartwright</hi> is charactered (very candidly) by a late Epiſ<g ref="char:EOLhyphen"/>copal Divine to have been an excellent Scholar, pure Latiniſt, accu<g ref="char:EOLhyphen"/>rate Grecian, exact Hebrician. And ſoon after the ſame Author affirms of him, That no Engliſh Champion in that Age, did with more valour and ſucceſs charge and rout the Romiſh Enemy in matter of Doctrine, <hi>Fuller's Church Hiſtory Book ninth.</hi>
+            </p>
+            <p>And indeed he was of that Eminency abroad, that being in trou<g ref="char:EOLhyphen"/>ble here for his Conſcience, King <hi>James</hi> was pleaſed to ſend a Letter Dated <hi>Edenburgh, June</hi> the 12th, 1591. (which is yet to be ſeen in Print) to Queen <hi>Elizabeth</hi> in his behalf; yea, the Univerſity of St. <hi>Andrews</hi> in <hi>Scotland,</hi> perceiving how he was moleſted here in <hi>En<g ref="char:EOLhyphen"/>gland;</hi> deſired him by their Letters (ſince alſo Printed) to come to them and be their Divinity Profeſſor in that Place. Beſides his Zeal for the Proteſtant Religion, and the Doctrinal Part thereof was ſo well known, that in the Judgment of Secretary <hi>Walſing ham,</hi> and of the then Heads of Houſes in <hi>Cambridge,</hi> he was judged the fitteſt man, to anſwer the Rhemiſh Tranſlation of the New Teſta<g ref="char:EOLhyphen"/>ment, which work (at the Inſtance of the Perſons aforeſaid, being undertaken by him) was at laſt brought near to a Concluſion; and
+<pb n="10" facs="tcp:61976:5"/>remains in Print as a Monument of his Learned Activity and Pains againſt the Emiſſaries of the Roman Church. And though all thoſe, who excited his Endeavours to that Work, knew how he ſtood af<g ref="char:EOLhyphen"/>fected to the Hierarchy, or Eccleſiaſtick Government in <hi>England;</hi> yet it ſeems his Non-concurrence therewith, was not, in their Eyes, a ſufficient Argument to ſuperſede his pains, in coping with our Ro<g ref="char:EOLhyphen"/>miſh Adverſaries.</p>
+            <p>'Tis true, he was ſo unſatisfied with the impoſed Ceremonies in <hi>England,</hi> that when he was but Fellow of <hi>Trinity</hi> Colledg in <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> one day Preaching in the Chappel, he did ſo convincingly in<g ref="char:EOLhyphen"/>veigh againſt the impoſition of ſignificant Ceremonies in the wor<g ref="char:EOLhyphen"/>ſhipping of God, that at the Afternoon's Prayer all the Students of that Houſe, (except three) left off their Surplices, as ſuperſtiti<g ref="char:EOLhyphen"/>ous things; <hi>Fuller's Hiſtory of Cambridge.</hi>
+            </p>
+            <p>Though Mr. <hi>Cartwright</hi> was cloathed with theſe Circumſtances, yet after many Bickerings, with the Arch-Biſhop, and ſome ſuffe<g ref="char:EOLhyphen"/>rings of his own, he was permitted at length, either by approbation or connivance, to exerciſe his Miniſtry peaceably about <hi>Warwick,</hi> being alſo there the Maſter of a Rich Hoſpital, with good accom<g ref="char:EOLhyphen"/>modations belonging to that Preferment. And the Reſpects he re<g ref="char:EOLhyphen"/>ceived from the Arch-Biſhop, his ancient Antagoniſt, are gratefully taken notice of, by the then Earl of <hi>Leiceſter,</hi> in a Letter of his to the ſaid Arch-Biſhop, beginning thus, <hi>My good Lord, I moſt heartily thank you, for your favourable and courteous uſage of Mr.</hi> Cartwright. To which the Arch-Biſhop made this Return, <hi>My ſingular good Lord, Mr.</hi> Cartwright <hi>ſhall be welcome to me at all times,</hi> &amp;c. Both the Letters are extant in Mr. <hi>Thomas Fuller's Church Hiſtory.</hi>
+            </p>
+            <p>It were to be wiſhed, that thoſe who imitate this Arch-Biſhop in his Severities, would at length be ſoftned into the like tenderneſs, and moderation. Neither was the Arch-Biſhops Friendſhip limi<g ref="char:EOLhyphen"/>ted to <hi>Cartwright</hi>'s Perſon alone, but thoſe of the ſame Sentiment with himſelf, did alſo participate thereof. Yea, when the City of <hi>Geneva</hi> ſome few years after was diſtreſſed by the Duke of <hi>Savoy,</hi> he was a great Inſtrument with the Prelates and Clergy to procure and ſend their ſeaſonable Relief, though he knew their Form of Government to be different from that in <hi>England;</hi> a benevolence,
+<pb n="11" facs="tcp:61976:5"/>which is very queſtionable, whether many of his Succeſſors would have imitated, who rather behold <hi>Geneva</hi> as a Seminary of Male-contents againſt the Eccleſiaſtical Government of <hi>England;</hi> though indeed a late Epiſcopal Divine hath ingeniouſly crowned it with the Epithite of <hi>The Nurſery of the Reformed Religion.</hi>
+            </p>
+            <p n="2">2. The other Inſtance is in Mr. <hi>Richard Hooker,</hi> and Mr. <hi>Walter Travers,</hi> both very Eminent, though, compared with the former Couple, moving in a more inferiour Orbe.</p>
+            <p>Mr. <hi>Hooker</hi> was a Preacher at the Temple, well known by his Book of Eccleſiaſtical Policy, wherein he hath ſhewed himſelf a Champion, for the preſent Conſtitution of Church Government in <hi>England.</hi> Mr. <hi>Travers</hi> was, at the ſame time Lecturer there, whoſe Doctrine did oftentimes thwart the others, eſpecially in matters relating to Diſcipline.</p>
+            <p>Secondly, This Mr. <hi>Travers</hi> was well known to <hi>Beza,</hi> and others of that Reformation, to which he was addicted; his Utterance was grateful, Geſture plauſible, Matter profitable, Method plain, and his Style carried in it <hi>Indolem Pietatis,</hi> a Genius of Grace flowing from his ſanctified heart. Thus a late Epiſcopal Proteſtant concerning him, <hi>Fuller's Church Hiſtory, Book 9th.</hi>
+            </p>
+            <p>The Truth is, his Abilities were ſuch, that he was alſo ſent for in<g ref="char:EOLhyphen"/>to <hi>Scotland,</hi> as well as Mr. <hi>Cartwright,</hi> to be one of the Profeſſors of Divinity at St. <hi>Andrews;</hi> And he was after made Provoſt of <hi>Trinity</hi> Colledge by <hi>Dublin,</hi> being the ſecond Provoſt thereof. This man being as it is thought by Mr. <hi>Hooker</hi>'s difference and com<g ref="char:EOLhyphen"/>plaint ſilenced by the Arch Biſhop; yet in the midſt of the Pa<g ref="char:EOLhyphen"/>roxiſm betwixt them, being demanded, upon ſome Aſperſion caſt upon Mr. <hi>Hooker,</hi> what he thought of it and him? anſwered tempe<g ref="char:EOLhyphen"/>rately, that he believed Mr. <hi>Hooker</hi> to be a holy man. And if holi<g ref="char:EOLhyphen"/>neſs be the way to happineſs in the full enjoyment of God, 'tis pity that thoſe, who walk in the ſame way, ſhould not all be allowed to do their Maſter's Work, without ſilencing, ſuſpending, or degrad<g ref="char:EOLhyphen"/>ing one another.</p>
+            <p>And the rather, becauſe God hath formerly, now doth, and here<g ref="char:EOLhyphen"/>after will appear, and manifeſt himſelf in various diſpenſations to the Sons of men. The true Unity is that in the Spirit, as for com<g ref="char:EOLhyphen"/>pelled
+<pb n="12" facs="tcp:61976:6"/>Uniformity to outward Modes and Formes of Worſhip, it hath been the Apple of Contention for many Ages in the Church.</p>
+            <p>There were differences in the Aprehenſion of divine things a<g ref="char:EOLhyphen"/>mongſt Chriſtians, even in the Apoſtles days, from whence aroſe contrary practiſes in point of Worſhip; <hi>To eat, and not to eat, to obſerve a day, and not to obſerve a day, Rom.</hi> 14.2, 3, 4, 5, 6. Yet both acted what they did to the Lord. Now what Rule doth the Apoſtle give in this Caſe? doth he excite to external Uniformity by threats or puniſhments? Nay, his advice is rather to the Gover<g ref="char:EOLhyphen"/>nours of the Church, as well as private Chriſtians, <hi>to uſe a mutual for<g ref="char:EOLhyphen"/>bearance one towards another, who art thou that judgest another man's ſervant?</hi> Intimating by that Increpation, that as there is a prone<g ref="char:EOLhyphen"/>neſs in man to ſet himſelf down in the Chair of Judgment, from thence to cenſure his Diſſenting Brethren, ſo that temper is to be condemned and avoided.</p>
+            <p>To make that Advice, or rather Reproof of the Apoſtle, the more plain, we may conſider, that God, who is but <hi>one,</hi> yet as he ſtands at the Head of ſeveral Diſpenſations, he may be called <hi>many</hi> Maſters, in relation to thoſe various and different Injunctions and Commands given unto his Servants, under theſe ſeveral Adminiſtra<g ref="char:EOLhyphen"/>tions reſpectively.</p>
+            <p>Thus he may be ſaid, to be one Maſter to the Jew, who, in their Pedagogy, were commanded to ſerve him in Types and Figures; and another to the Chriſtian Gentile, who was enjoyned to a more Spiritual Worſhip in the Room of thoſe Types. Other Inſtances might be alſo given of Chriſtians of ſeveral Forms, who ſerve God according to their Light, as their reſpective Maſter under each Claſs. And in ſome ſenſe it is for the Glory of the Grace of God, to have it diverſified into ſeveral appearances, and to have faithful Enter<g ref="char:EOLhyphen"/>tainers thereof in each appearance, acting ſutably thereunto, which will doubtleſs be accepted by him, and is alſo moſt comfortable to themſelves. For the joy and acquieſcence of a Chriſtian, in the Duties he performs, doth not ariſe from his Uniformity and com<g ref="char:EOLhyphen"/>pliance with others therein, but from the inward ſatisfaction and complacency, which he hath in his own mind, according to that, <hi>Rom.</hi> 14. and <hi>ult. Whatſoever is not of Faith is Sin.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:61976:6"/>
+If in ſuch Caſes, all things be acted meerly by Power, there was a time when Chriſtianity it ſelf, as to man was on the weaker ſide: Let us not juſtifie the Sanguinary Cruelty of Heathen Perſecutors, by in<g ref="char:EOLhyphen"/>ſiſting on the ſame Methods; meer force is but a brutiſh Argument, and not ſanctified by God, for ſuch a Divine Uſe (I mean in Goſpel times) as the conviction of Sinners, or the reducing thoſe, which are gone aſtray. Convince your Brethren, if you can by Scriptural Argument and Reaſon, but preſs them not to act contrary to their own Perſwaſions, which were to ſin againſt Conſcience, which is God's Vicegerent in the Soul, and whoſe Dictates are to be com<g ref="char:EOLhyphen"/>plied with, whatſoever ſome men command, or others ſuffer to the contrary. I know the Note of ſingularity and Schiſme is uſually imputed to Diſſenting Brethren by their Contrariants. To which I ſay, the ſame Brand hath been inured by Popiſh Writers on <hi>Luther,</hi> and all our firſt Reformers, and may alſo be affixed (but unjuſtly) on the Beginners and Promoters of all Reformations in the World, where Cuſtom hath made ſome corrupt practiſes Epidemical. Whereas it rather concerns Church Governours to enquire, whe<g ref="char:EOLhyphen"/>ther the things excepted againſt come not within the Notion of ſin<g ref="char:EOLhyphen"/>ful Uſages, and ſo fit to be aboliſhed? And if upon Enquiry, they ſhould be found to be but indifferent and controverted things, yet the Words of Mr. <hi>Hales</hi> late of <hi>Eaton,</hi> an Eminent and Learned Divine of the Epiſcopal perſwaſion, do evince, that the limiting Church-Communion to things of doubtful Diſputation hath been in all Ages the Ground of Schiſm and Seperation. Take his Mind in his own Expreſſions, which are very weighty and conſiderable.</p>
+            <p>To load our Publick Forms (ſaith he) with the Private Fancies, upon which we differ, is the moſt ſovereign way to perpetuate, Schiſm to the Worlds End. Prayer, Confeſſion, Thankſgiving, Reading of the Scriptures, and Adminiſtration of the Sacraments, in the plaineſt and ſimpleſt manner, were matter enough to furniſh a ſufficient Liturgy, though nothing either of Private Opinion, or of Church Pomp, of Garments, or preſcribed Geſtures, of Image<g ref="char:EOLhyphen"/>ry, of Muſick, of Matter concerning the Dead, of many Super<g ref="char:EOLhyphen"/>fluities which creep into the Church, under the Name of Order and Decency, did interpoſe it ſelf. To charge Churches and Liturgies
+<pb n="14" facs="tcp:61976:7"/>with things unneceſſary, was the firſt beginning of all Superſtiti<g ref="char:EOLhyphen"/>on; And when ſcruple of Conſcience began, or was pretended, then Schiſm began to break in. If the ſpecial Guides and Fathers of the Church would be a little ſparing of incumbring Churches with Superfluities, or not over-rigid, either in reviving obſolete Cu<g ref="char:EOLhyphen"/>ſtoms or impoſing new, there would be far leſs cauſe of Schiſm, Superſtition; and all the inconveniencies were likely to enſue, would be but this, they ſhould in ſo doing yield a little to the imbecillity of their Inferiours, a thing which St. <hi>Paul</hi> would never have refuſed to do. Mean while, whatſoever falſe or ſuſpected Opinions are made a piece of Church Liturgy; He that ſeperates is not the Schiſ<g ref="char:EOLhyphen"/>matick, for it is alike unlawful to make profeſſion of known or ſuſpected Falſhood, as to put in practiſe unlawful or ſuſpected Acti<g ref="char:EOLhyphen"/>ons. Thus far He.</p>
+            <p>
+               <hi>Object.</hi> But you will ſay, indifferent things, when commanded by the Authority of the Magiſtrate, are made neceſſary.</p>
+            <p>
+               <hi>Anſw.</hi> The Interpoſal of Civil Authority in controverted Points of Divinity, hath occaſioned great Havock in the World; the Magiſtrate is the <hi>Aſylum,</hi> which every Party, when uppermoſt, uſu<g ref="char:EOLhyphen"/>ally repairs to, from the Pope to the Patriarch, from the Patriarch to the Prelate, from the Prelate to the Eccleſiaſticks of inferiour Orders and Denominations.</p>
+            <p>In former days, when the High Commiſſion (whoſe Judges were principally Eccleſiaſticks) was in force amongſt us, many Cauſes were out of Policy of the Clergy tranſmitted from thence, into the Star-Chamber, where the Temporal Lords were alſo Judges, that ſo the Envy of their proceedings might be ſhared among the Secu<g ref="char:EOLhyphen"/>lar Lords; Though Church-men were, in Eccleſiaſtical Cauſes, the Chief Actors therein, as appeared by the late Arch-Biſhop of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> who uſhered in the Cenſures of Mr. <hi>Prynne, Burton</hi> and <hi>Baſt<g ref="char:EOLhyphen"/>wick,</hi> in a large and ſevere Speech made in that Court, and in the preſent Plea, <hi>Antiquum obtinent:</hi> for the Truth is, ſuch Laws were made at the Inſtance of Eccleſiaſticks, and in their favour; ſo that the Cenſures grounded thereupon, are in effect their own, but in another mode and diverſification. Let our preſent Eccleſiaſtical Governours declare, that all Perſecution for Conſcience ſake is an
+<pb n="15" facs="tcp:61976:7"/>unlawful thing, and let them improve their Intereſt in the Civil Magiſtrate, for the abrogating of thoſe Laws which countenance it, and then it will ap<g ref="char:EOLhyphen"/>pear, at whoſe Doors the Severities complained of do lie, theirs or the Magiſtrates?</p>
+            <p>I will not now diſpute whether ſet and impoſed Forms of Prayers, called Liturgies, be lawful yea or no? This I ſhall ſay, whatſoever ſome alledge for the Antiquity of them, yet ſeveral of the Fathers of the Primitive Church ſufficiently intimate to us, that the Churches, ſoon after the Apoſtles Days, uſed the Perſonal Abilities of their Paſtors in prayer, without enjoyning any preſcribed Forms. Neither doth it appear (as the Miniſters authoriſed to review the Liturgy ſince His Majeſtie's Reſtauration have obſerved in their due account) that Chriſt ever appointed any ſuch to an Office, as to make pray<g ref="char:EOLhyphen"/>ers for other Paſtors, and Churches to offer up to God, <hi>Page</hi> 24. and in <hi>p.</hi> 23. They ſay, <q>that the Common-Prayer, in moſt of the Vulgar, cauſeth a Re<g ref="char:EOLhyphen"/>laxation of their Intention, and Attention, and a lazy taking up with a Corps or Image of Devotion, even in the Service of the Lips, while the Heart is little ſenſible, of what is ſaid. The reaſon of which their Aſſertion may be fetcht from <hi>Page</hi> 23. of the ſaid Diſcourſe, which take in their own Words. Whatſoever can be expected duely to affect the Heart, muſt keep the In<g ref="char:EOLhyphen"/>tellect and all the Faculties awake in diligent Attention and Exerciſe, and in the uſe of a Form, which we have frequently heard and read, the Faculties are not ſo neceſſitated and urged to Attention and ſerious Exerciſe, as they be, when from our underſtanding, we ſet about the natural Work of Re<g ref="char:EOLhyphen"/>preſenting to others, what we diſcern and feel: Man's mind is naturally ſloathful, and will take its eaſe, and remit its ſeriouſneſs, longer than it is drawn out by delight; When we know before hand that we have no more to do, but read a Prayer or Homily, we ſhall ordinarily be in danger of let<g ref="char:EOLhyphen"/>ting our minds go another way, and think of other matters, and be ſenſe<g ref="char:EOLhyphen"/>leſs of the Work in hand.</q> Thus they.</p>
+            <p>Neither ſhall I enumerate, the particular things, excepted againſt, in our preſcribed Liturgy, becauſe the Primate of <hi>Ireland,</hi> Arch-Biſhop of <hi>York,</hi> and other Epiſcopal Divines, as well as others, have had Meetings formerly for the Reformation of the Liturgy uſed in <hi>England,</hi> before the late Civil Wars, and drew up a Catalogue (wherein the Croſs in Baptiſme, was particularly laid aſide) of faults that needed mending, yet to be ſeen in Print, few of which have been amended in the Liturgy now in uſe.</p>
+            <p>I ſhall conclude all with that Objection of Conformiſts againſt their Diſſent<g ref="char:EOLhyphen"/>ing Brethren. That they are not now ſo conſiderable for Intereſt and other Reſpects, as they were in Queen <hi>Elizabeth</hi>'s Days, and therefore juſtly ſlighted by them.</p>
+            <p>
+               <hi>To which I anſwer.</hi>
+            </p>
+            <p n="1">1. 'Twas never accounted the part of a Wiſe and prudent General to de<g ref="char:EOLhyphen"/>ſpiſe
+<pb n="16" facs="tcp:61976:8"/>and undervalue an Enemy, though inferiour to him in number and o<g ref="char:EOLhyphen"/>ther References: Thoſe who have done ſo, have been convinced of their miſtake and folly to their loſs and ſhame.</p>
+            <p n="2">2. If thoſe who have the Advantages of more liberal and ingenious Edu<g ref="char:EOLhyphen"/>cation, by having all Stipends, Exhibitions, Allowances, Salleries, and other Helps running down to them alone in a Legal Channel (ſuch is the Caſe of Conformiſts) do not ſurmount their ordinary Brethren, who are deprived of thoſe advantages, certainly they would be very unexcuſable both before God and Man.</p>
+            <p n="3">3. Neither is the Diſſenting Party ſo inconſiderable on the mentioned ac<g ref="char:EOLhyphen"/>counts, but that indifferent men can ſmile at the weakneſs of the Objection. Who more aſſiduous in Labours than they? Who more and greater ſearchers of Conſcience in plain and profitable (which is the beſt) Preaching? Who greater Examples of a pious and exemplary life? I ſhall not inſtance in their Numbers, becauſe that of it ſelf is no ſufficient Argument, We are not to follow a Multitude to do evil: <hi>
+                  <g ref="char:V">Ʋ</g>nus Athanaſius contra totum Mundum, &amp; Totus Mundus contra unum Athanaſium,</hi> is a known Adage in the Caſe of the <hi>Arians.</hi> Only this is worthy to be obſerved, that in the Memory of ſome now living, when things ran in another Channel, as to Eccleſiaſtical Government, for I meddle not with the Civil) then they do now, but a few years, yet then many Pariſhes in <hi>England</hi> began to be ſupplied with diligent Preachers, though the preſent Form of our Church Government was not viſible amongſt us: ſo that if ever King and Parliament in <hi>England</hi> ſhould reduce things to the like circumſtances, who knows how many ſeven thouſands may ſtart up, who are yet unknown to the <hi>Elijah</hi>'s of <hi>Iſrael.</hi>
+            </p>
+            <p>In Concluſion, I think this with Truth and Modeſty may be affirmed; That the Labours of thoſe called Non-Conformiſts are of great uſe, and worthy to be retained in our Engliſh Church, eſpecially when ſo many de<g ref="char:EOLhyphen"/>ſigners are at Work to undermine and blow up the Proteſtant Reformed Reli<g ref="char:EOLhyphen"/>gion, to which the Party contended for is a great Bulwark. For it is not our Eccleſiaſtical Diſcipline alone, which can exclude Popery, unleſs the clear and ſaving Doctrines of the Goſpel be effectuary urged upon the Conſciences of men, for the eſtabliſhing of their Hearts in the Truth againſt the Dark and Superſtitious Poſitions of the Papal Church. And in this Work Non-Conformiſts are uſefully imployed, and that out of a Principle and Love to Truth (as far as men can judge) becauſe they proceed therein againſt many Diſcouragements, Slanders. Evil Reports, and in the midſt of many ſufferings of their own, all which fight againſt, and might worſt them, if they were not divinely aſſiſted from above.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
